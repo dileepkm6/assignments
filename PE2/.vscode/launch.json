@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenNumTest",
+            "request": "launch",
+            "mainClass": "EvenNumTest"
+        }
+    ]
+}
